@@ -25,7 +25,7 @@ SECRET_KEY = 'y=8f7y+m-hkvij8y96$ev1h+d9%(te-1mc5+_6e!lynyvvosix'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fullclean-dev.eba-2ngfwihb.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['fullclean-dev.eba-2ngfwihb.us-west-2.elasticbeanstalk.com', '.eba-2ngfwihb.us-west-2.elasticbeanstalk.com' ]
 
 
 # Application definition
